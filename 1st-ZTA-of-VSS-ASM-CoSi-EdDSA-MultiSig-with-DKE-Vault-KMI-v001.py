@@ -1,6 +1,7 @@
 ## 1st-ZTA-of-HYOK-or-BYOK-KMI-with-Certified-HSM-based-DKE-for-Critical-DPI-v001.py
 ## 1st-ZTA-of-VSS(Verifiable-Secret-Sharing)-CoSi(Collective-Signing)-EdDSA-MultiSig-with-DKE-Vault-KMI.py
-## 1st-ZTA-of-VSS-CoSi-EdDSA-MultiSig-with-DKE-Vault-KMI-v001.py
+## 1st-Confidential-MPC-ZTA-of-VSS-CoSi-EdDSA-MultiSig-Envelope-Encryption-with-DKE-Vault-KMI-v001.py
+
 
 ## Python code snippets to implement MultiSig with CoSi, such as described in the LinkedIn post:
 ## https://www.linkedin.com/feed/update/urn:li:activity:7117123168456056832?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7117123168456056832%2C7117181356823977984%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287117181356823977984%2Curn%3Ali%3Aactivity%3A7117123168456056832%29
